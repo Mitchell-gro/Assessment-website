@@ -47,6 +47,11 @@ font-family: 'STIX Two Text', serif;
         padding-right: 225px;
 }
 
+#gp {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 p {
     text-align: justify;
 }
