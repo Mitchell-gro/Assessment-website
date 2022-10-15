@@ -30,7 +30,22 @@ font-family: 'STIX Two Text', serif;
     font-size: 30px;
 }
 
+#name {
+    font-size: larger;
+}
 
+#avatar {
+    float: right;
+    width: 200px;
+    height: 200px;
+    padding: auto;
+}
+
+#info {
+        position: relative;
+        padding-left: 15px;
+        padding-right: 225px;
+}
 
 p {
     text-align: justify;
