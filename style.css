@@ -52,6 +52,11 @@ font-family: 'STIX Two Text', serif;
     padding-right: 15px;
 }
 
+#CP {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 p {
     text-align: justify;
 }
