@@ -41,6 +41,13 @@ font-family: 'STIX Two Text', serif;
     padding: auto;
 }
 
+#avatar1 {
+    float: right;
+    width: 200px;
+    height: 120px;
+    padding: auto;
+}
+
 #info {
         position: relative;
         padding-left: 15px;
